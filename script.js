@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive Mr Abhijith Meno? 🤔",
+    "Are you positive Mr Abhijith Menon? 🤔",
     "Kanna😎 please... 🥺",
     "If you say no, I will be really sad pikiri😔...",
     "I will be very sad Mr... 😢",
