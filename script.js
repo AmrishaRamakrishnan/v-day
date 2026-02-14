@@ -14,7 +14,7 @@ const noMessages = [
     "Are you positive Mr Abhijith Menon? 🤔",
     "Kanna😎 please... 🥺",
     "If you say no, I will be really sad pikiri😔...",
-    "I will be very sad Mr... 😢",
+    "I will be very sad Mr...plzz say yes 🤓😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
